@@ -1,4 +1,5 @@
-import './assets/main.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'admin-lte/dist/js/adminlte.min.js';
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
